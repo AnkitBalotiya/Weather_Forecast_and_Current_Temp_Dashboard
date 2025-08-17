@@ -38,7 +38,7 @@ This data is then imported into **Power BI**, transformed, and visualized.
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](images/weather_dashboard.png)  
+![Dashboard Screenshot](image/weather_dashboard.png)  
 
 ---
 
