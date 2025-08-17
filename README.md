@@ -38,7 +38,7 @@ This data is then imported into **Power BI**, transformed, and visualized.
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](image/weather_dashboard.png)  
+![Dashboard Screenshot](image/weather_dashboard1.png)  
 
 ---
 
@@ -46,4 +46,4 @@ This data is then imported into **Power BI**, transformed, and visualized.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/POWERBI_WEATHER_DASHBOARD.git
+   git clone https://github.com/AnkitBalotiya/POWERBI_WEATHER_DASHBOARD.git
